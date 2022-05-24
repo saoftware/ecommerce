@@ -21,7 +21,7 @@
 
     img.slider-img{
         height: 500px !important;
-        width: 1260px !important;
+        width: 100% !important;
     }
 
     .custom-product{
@@ -30,6 +30,10 @@
 
     .slider_btn{
         color: #35443585 !important;
+    }
+
+    .search-box{
+        width: 500px !important;
     }
 </style>
 </html>
