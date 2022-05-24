@@ -14,6 +14,7 @@
     {{ View::make('footer') }}
 </body>
 <style>
+    
     .custom-login{
         height: 500px;
         margin-top: 100px;
